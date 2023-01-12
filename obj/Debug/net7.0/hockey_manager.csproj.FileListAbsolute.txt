@@ -1,0 +1,15 @@
+/Users/jakubsmorada/RiderProjects/hockey_manager/obj/Debug/net7.0/hockey_manager.csproj.AssemblyReference.cache
+/Users/jakubsmorada/RiderProjects/hockey_manager/obj/Debug/net7.0/hockey_manager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubsmorada/RiderProjects/hockey_manager/obj/Debug/net7.0/hockey_manager.AssemblyInfoInputs.cache
+/Users/jakubsmorada/RiderProjects/hockey_manager/obj/Debug/net7.0/hockey_manager.AssemblyInfo.cs
+/Users/jakubsmorada/RiderProjects/hockey_manager/obj/Debug/net7.0/hockey_manager.csproj.CoreCompileInputs.cache
+/Users/jakubsmorada/RiderProjects/hockey_manager/bin/Debug/net7.0/hockey_manager
+/Users/jakubsmorada/RiderProjects/hockey_manager/bin/Debug/net7.0/hockey_manager.deps.json
+/Users/jakubsmorada/RiderProjects/hockey_manager/bin/Debug/net7.0/hockey_manager.runtimeconfig.json
+/Users/jakubsmorada/RiderProjects/hockey_manager/bin/Debug/net7.0/hockey_manager.dll
+/Users/jakubsmorada/RiderProjects/hockey_manager/bin/Debug/net7.0/hockey_manager.pdb
+/Users/jakubsmorada/RiderProjects/hockey_manager/obj/Debug/net7.0/hockey_manager.dll
+/Users/jakubsmorada/RiderProjects/hockey_manager/obj/Debug/net7.0/refint/hockey_manager.dll
+/Users/jakubsmorada/RiderProjects/hockey_manager/obj/Debug/net7.0/hockey_manager.pdb
+/Users/jakubsmorada/RiderProjects/hockey_manager/obj/Debug/net7.0/hockey_manager.genruntimeconfig.cache
+/Users/jakubsmorada/RiderProjects/hockey_manager/obj/Debug/net7.0/ref/hockey_manager.dll
